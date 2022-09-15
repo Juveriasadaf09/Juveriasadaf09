@@ -17,9 +17,6 @@ Juveria Sadaf</a></h1>
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write blogs  [httpshttps://medium.com/@juveriasadafkhan/css-flex-v-s-css-grid-78682cf0642f
-
 - 💬 Ask me about **Reactjs & React-Native**
 
 - 📫 How to reach me juveriasadafkhan@gmail.com**
