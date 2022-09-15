@@ -52,7 +52,7 @@ Juveria Sadaf</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://medium.com/@juveriasadafkhan/css-flex-v-s-css-grid-78682cf0642f)
+- [Difference between CSS-Flex and CSS-Grid ](https://medium.com/@juveriasadafkhan/css-flex-v-s-css-grid-78682cf0642f)
 - [Convert a image to sketch using python](https://medium.com/@juveriasadafkhan/asynchronous-javascript-function-callbacks-promises-async-await-7251ddfd719c
 - [Upload your project/files in GitHub using commands](https://medium.com/@juveriasadafkhan/what-is-the-difference-between-wget-vs-curl-d938874dcd26)
 <!-- BLOG-POST-LIST:END -->
