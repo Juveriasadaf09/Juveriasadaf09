@@ -52,9 +52,9 @@ Juveria Sadaf</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Download Instagram profile picture using python](https://medium.com/@juveriasadafkhan/css-flex-v-s-css-grid-78682cf0642f)
+- [Convert a image to sketch using python](https://medium.com/@juveriasadafkhan/asynchronous-javascript-function-callbacks-promises-async-await-7251ddfd719c
+- [Upload your project/files in GitHub using commands](https://medium.com/@juveriasadafkhan/what-is-the-difference-between-wget-vs-curl-d938874dcd26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
