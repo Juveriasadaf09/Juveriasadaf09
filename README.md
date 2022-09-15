@@ -18,7 +18,7 @@ Juveria Sadaf</a></h1>
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write blogs  [httpshttps://medium.com/@juveriasadafkhan/css-flex-v-s-css-grid-78682cf0642f
 
 - 💬 Ask me about **Reactjs & React-Native**
 
